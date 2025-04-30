@@ -26,4 +26,4 @@ A smart web-based tool to automate and control light schedules using WebSocket, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/PRINCESS-N/light_controller.git
-   cd light-scheduler
+   cd light-controller
